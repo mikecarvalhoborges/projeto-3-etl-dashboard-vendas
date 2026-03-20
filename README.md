@@ -39,6 +39,22 @@ No Power BI, foi desenvolvido um dashboard com:
 
 ## Estrutura do projeto
 
+## Principais insights
+
+- O Sudeste apresentou o maior faturamento e o maior volume de pedidos.
+- O Centro-Oeste apresentou o maior ticket médio.
+- Os resultados sugerem uma oportunidade de investigar estratégias regionais para elevar o valor médio dos pedidos em outras regiões.
+
+## Aprendizados
+
+Neste projeto, pratiquei conceitos importantes para análise de dados, como:
+
+- exploração e diagnóstico de dados brutos;
+- tratamento e padronização de dados com SQL;
+- construção de uma camada analítica para BI;
+- desenvolvimento de dashboard com indicadores e filtros interativos;
+- organização de projeto para portfólio no GitHub.
+
 ```text
 projeto-3-etl-dashboard-vendas/
 ├── README.md
@@ -50,3 +66,4 @@ projeto-3-etl-dashboard-vendas/
 │   └── dashboard_projeto3.pbix
 └── images/
     └── dashboard.png
+
