@@ -1,4 +1,4 @@
-# Projeto 3 - ETL e Dashboard de Vendas por Região
+# ETL e Dashboard de Vendas por Região com BigQuery e Power BI
 
 ## Objetivo
 Realizar um processo simples de ETL em dados de vendas no BigQuery, gerar uma tabela analítica por região e construir um dashboard no Power BI para análise de faturamento, pedidos e ticket médio.
