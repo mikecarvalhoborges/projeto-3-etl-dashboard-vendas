@@ -37,8 +37,6 @@ No Power BI, foi desenvolvido um dashboard com:
 - mapa de distribuição regional
 - filtro por região
 
-## Estrutura do projeto
-
 ## Principais insights
 
 - O Sudeste apresentou o maior faturamento e o maior volume de pedidos.
@@ -54,6 +52,8 @@ Neste projeto, pratiquei conceitos importantes para análise de dados, como:
 - construção de uma camada analítica para BI;
 - desenvolvimento de dashboard com indicadores e filtros interativos;
 - organização de projeto para portfólio no GitHub.
+
+## Estrutura do projeto
 
 ```text
 projeto-3-etl-dashboard-vendas/
